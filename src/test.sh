@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 EXPECTED_OUTPUT="Hello, World!"
 
